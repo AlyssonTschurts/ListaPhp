@@ -38,3 +38,7 @@ Bem-vindo ao Gerenciador de Tarefas PHP, onde você pode organizar suas tarefas 
 
 8. **var_dump() 🕵️‍♀️:**
    - A função `var_dump()` é utilizada para exibir informações sobre uma variável, incluindo seu tipo e valor. É uma ferramenta útil para depurar e entender dados durante o desenvolvimento.
+
+## Desenvolvedores
+
+Desenvolvido por Monolitto/Alysson
